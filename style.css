@@ -15,7 +15,7 @@ h1{
 
 h3{
     color: White;
-    font-size:30px;
+    font-size:20px;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     margin: auto;
@@ -23,7 +23,7 @@ h3{
 
 #linkedin{
     color: red;
-    font-size:30px;
+    font-size:20px;
     font-family: 'Times New Roman', Times, serif;
     display: flex;
     justify-content: center;
