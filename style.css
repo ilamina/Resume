@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(133, 133, 250);
+}
+
+hr{
+    border: 2px solid red
+}
+
+h1{
+    color: White;
+    font-size:70px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+}
+
+h3{
+    color: White;
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: auto;
+}
+
+#linkedin{
+    color: red;
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.header{
+    text-align: center;
+}
+
+img{
+    width: 160px;
+    position: relative;
+
+}
+
+h4{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom:0;
+    margin: 0; 
+    padding-top:0;
+}
+
+h4 + p {
+    margin: auto;
+  }
+
+
+ul, li{
+    color: black;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom:0;
+    margin: 0; 
+    padding-top:0;
+}
+
+table, tr, td {
+    font-size: 18px;
+    width:80%;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: auto;
+    
+}
